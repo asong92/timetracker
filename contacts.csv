@@ -1,0 +1,3 @@
+id,name,company_id,default_rate,created_at,updated_at,slug,user_id
+463626445,Project XYZ,673772394,60,2014-07-10 17:23:43 UTC,2014-07-10 17:23:43 UTC,project-xyz,128271312
+647910780,Second Proj,944384622,125,2014-07-10 17:23:43 UTC,2014-07-10 17:23:43 UTC,second-proj,128271312

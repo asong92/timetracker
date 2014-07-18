@@ -1,0 +1,7 @@
+Work Create
+=====================================
+
+User <%= @work.user %> posted a work item:
+<%= @work.created_At.strftime('%m/%d/%Y %I:%M %p') %>
+Project: <%= @work.project.name %>
+Hours: <%= @work.hours %>
